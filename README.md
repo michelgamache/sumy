@@ -1,3 +1,5 @@
+## Modifié par moi
+
 # Automatic text summarizer
 
 [![image](https://api.travis-ci.org/miso-belica/sumy.png?branch=master)](https://travis-ci.org/miso-belica/sumy)
